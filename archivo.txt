@@ -1,2 +1,4 @@
 Inicio del proyecto
 Cambio distinto desde main
+Cambio desde la rama-conflicto
+ rama-conflicto
